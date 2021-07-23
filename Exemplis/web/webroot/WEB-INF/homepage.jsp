@@ -1,0 +1,17 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="html" tagdir="/WEB-INF/tags/" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Exemplis Home</title>
+<link rel="stylesheet" href="css/ExemplisStyles.css">
+<html:script />
+</head>
+<body>
+	<html:menu />
+	<h1>
+		<center>Welcome to Home Page</center>
+	</h1>
+</body>
+</html>
